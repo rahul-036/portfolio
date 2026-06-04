@@ -80,15 +80,9 @@ export default function Projects() {
 
               {/* Buttons */}
               <div className="flex gap-3 mt-auto pt-2">
-                <a
-                  href={p.github}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="flex-1 flex items-center justify-center gap-2 py-2 rounded-lg glass text-slate-300 hover:text-white text-sm font-medium transition-all border border-white/5 hover:border-white/10"
-                >
-                  <GitBranch size={14} /> GitHub
-                </a>
-
+                <span className="flex-1 text-center py-2 rounded-lg glass text-slate-400 text-sm font-medium border border-white/5">
+                  GitHub Repository
+                </span>
               </div>
             </div>
           </motion.div>
