@@ -58,7 +58,7 @@ export default function Hero() {
               className="px-7 py-3 rounded-xl text-white font-semibold transition-colors" style={{ background: '#4f46e5' }}>
               View Projects
             </motion.button>
-            <motion.a whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.97 }} href="#"
+            <motion.a whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.97 }} href="/RAHUL_RESUME.pdf" download
               className="px-7 py-3 rounded-xl glass text-white font-semibold flex items-center gap-2 transition-all" style={{ border: '1px solid rgba(255,255,255,0.1)' }}>
               <Download size={16} /> Resume
             </motion.a>
