@@ -75,20 +75,20 @@ export const codingProfiles = [
     stats: '65+ Problems Solved',
     detail: 'Data Structures & Algorithms',
     color: '#f59e0b',
-    link: 'https://leetcode.com',
+    link: 'https://leetcode.com/u/6XDXqkcgHj/',
   },
   {
     platform: 'Skillrack',
     stats: '500+ Problems Solved',
     detail: '140+ Bronze Achievements',
     color: '#10b981',
-    link: 'https://skillrack.com',
+    link: 'https://skillrack.com/faces/candidate/manageprofile.xhtml',
   },
   {
     platform: 'HackerRank',
     stats: '2 Certifications',
     detail: '2-Star SQL Rating',
     color: '#06b6d4',
-    link: 'https://hackerrank.com',
+    link: 'https://www.hackerrank.com/profile/rahul_v2024csbs',
   },
 ]

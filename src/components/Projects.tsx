@@ -88,15 +88,7 @@ export default function Projects() {
                 >
                   <GitBranch size={14} /> GitHub
                 </a>
-                <a
-                  href={p.demo}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="flex-1 flex items-center justify-center gap-2 py-2 rounded-lg text-sm font-medium transition-all text-white"
-                  style={{ background: p.color }}
-                >
-                  <ExternalLink size={14} /> Live Demo
-                </a>
+
               </div>
             </div>
           </motion.div>
